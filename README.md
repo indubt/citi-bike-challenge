@@ -44,7 +44,7 @@ Observation from this dashboard is that the member rides are usually during the 
 
 With the random sample of 2000 chosen from each month, created a dashboard to view the usage of citi bikes by each month amd also the dashboard shows the map for the start station names and count.
 
-Observation from this dashboard is that the usage of bikes is pretty high and consistent during spring and summer months. July 2023 recorded the high usage of bikes from the dataset.
+Observation from this dashboard is that the usage of bikes is pretty high and consistent during spring and summer months. August 2023 recorded the high usage of bikes from the dataset.
 
 ![alt text](screenshots/usage_by_month_dashboard.png)
 
